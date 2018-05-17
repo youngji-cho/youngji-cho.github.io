@@ -15,7 +15,7 @@ markdown: kramdown
 analytics: UA-119395784-1
 
 # Comments
-disqus-shortname: youngji-cho.github.io
+disqus-shortname: youngji-cho-github-io
 
 #optimization
 #compress.html
