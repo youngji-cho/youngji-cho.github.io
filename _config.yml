@@ -1,8 +1,8 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
+title: youngji's tech blog
+baseurl: # name of the repository
+email: george9058@naver.com
 
 
 
@@ -12,11 +12,10 @@ markdown: kramdown
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-119395784-1
 
 # Comments
-disqus-shortname: webjeda-demo
-
+disqus-shortname: youngji-cho.github.io
 
 #optimization
 #compress.html
@@ -29,7 +28,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
+
 
 sass:
  style: compressed
